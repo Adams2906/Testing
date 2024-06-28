@@ -1,5 +1,5 @@
-function addFive(val) {
+function Node(val) {
     return val + 5;
 };
 
-module.exports = addFive;
+module.exports = Node;
