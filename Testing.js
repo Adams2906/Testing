@@ -19,12 +19,14 @@ TTD approach to programming:
 2. Re-write code to pass 
 3. Optimize code without changing its results
 
-
 Testing is seen to be the act of confirming that software works as specified in the software's requirements.
 
 Where as testing a software means ensuring that a specific piece of software works with other parts of your system.
+
+They are two types of testing:
+1. End 2 End (e2e) Testing 
+2. Integration Testing 
+3. Unit Testing
 */
-
-
 
 
